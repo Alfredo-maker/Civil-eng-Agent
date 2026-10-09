@@ -1,0 +1,14 @@
+langchain
+wikipedia
+langchain-community
+eurocodepy
+ezdxf pywin32 # Autocad support
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
+
+
+
+
